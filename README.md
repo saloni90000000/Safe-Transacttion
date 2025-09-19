@@ -90,8 +90,9 @@ This will open a browser window where you can interact with the fraud detection 
 ## File Descriptions
 - **fraud_detection.py**: Streamlit web app for fraud prediction.
 - **analysis_model.ipynb**: Notebook for EDA, feature engineering, and model training.
-- **AIML Dataset.csv**: Transaction data. **Due to GitHub file size limits, download the dataset from this link and place it in the project folder:**
-   - [Download AIML Dataset.csv](<your-cloud-link-here>)
+- **AIML Dataset.csv**: Transaction data. 
+   - [Download AIML Dataset.csv](<https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download>)
 - **fraud_detection_pipeline.pkl**: Serialized model pipeline for use in the app.
 - **README.md**: Project documentation and instructions.
+
 
